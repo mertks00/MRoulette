@@ -1,0 +1,7 @@
+name: MRoulette
+version: '${project.version}'
+main: me.mertks00.mroulette.MRoulette
+api-version: 1.16
+commands:
+  rulet:
+
